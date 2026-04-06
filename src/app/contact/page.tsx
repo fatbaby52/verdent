@@ -7,7 +7,7 @@ import { COMPANY } from '@/lib/constants';
 export const metadata: Metadata = {
   title: 'Contact Us | Get in Touch',
   description:
-    'Contact Verdent to discuss how we can help coordinate your incentive-supported equipment purchase. We typically respond within one business day.',
+    'Contact Verdent, a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward. We typically respond within one business day.',
 };
 
 export default function ContactPage() {

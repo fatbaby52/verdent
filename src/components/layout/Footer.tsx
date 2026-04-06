@@ -41,8 +41,9 @@ export function Footer() {
                 <span>{COMPANY.name}</span>
               </Link>
               <p className="text-body-sm text-secondary-400 mb-6 max-w-sm">
-                {COMPANY.name} helps coordinate incentive-supported clean equipment purchases,
-                working alongside buyers, dealers, and OEMs to navigate complex processes.
+                {COMPANY.name} is a third-party coordinator that helps buyers, dealers, and OEMs
+                organize and move incentive-supported clean equipment transactions forward,
+                including California CORE-related coordination.
               </p>
               <div className="space-y-2 text-body-sm">
                 <p>

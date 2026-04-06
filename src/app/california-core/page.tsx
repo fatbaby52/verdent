@@ -12,7 +12,7 @@ import { CORE_PROCESS_STEPS, FULL_FAQ } from '@/lib/constants';
 export const metadata: Metadata = {
   title: 'California CORE Voucher Support | Coordination Services',
   description:
-    'Verdent provides coordination support for California CORE-related clean equipment purchases. We help buyers, dealers, and OEMs navigate the process from interest to documentation submission.',
+    'Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move California CORE-related clean equipment transactions forward, from initial interest to documentation submission.',
   keywords: [
     'California CORE',
     'CORE voucher',
@@ -40,7 +40,7 @@ export default function CaliforniaCorePage() {
       {/* Hero */}
       <Hero
         headline="California CORE Coordination Support"
-        subheadline="Verdent helps buyers, dealers, and OEMs navigate California CORE-related clean equipment purchases. We coordinate the process from initial interest through documentation preparation and dealer submission."
+        subheadline="Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move California CORE-related clean equipment transactions forward. We coordinate from initial interest through documentation preparation and dealer submission."
         primaryCta={{ label: 'Discuss Your Project', href: '/contact' }}
         secondaryCta={{ label: 'Learn the Process', href: '#process' }}
         showTrustSignals={false}

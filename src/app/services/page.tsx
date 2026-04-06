@@ -7,7 +7,7 @@ import { SERVICES } from '@/lib/constants';
 export const metadata: Metadata = {
   title: 'Services | Coordination Support for Equipment Purchases',
   description:
-    'Verdent provides coordination services for incentive-supported clean equipment purchases, including incentive navigation, dealer coordination, documentation support, and process management.',
+    'Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward. Services include dealer coordination, documentation support, and process management.',
 };
 
 export default function ServicesPage() {
@@ -61,8 +61,9 @@ export default function ServicesPage() {
               Coordination services for incentive-supported equipment purchases
             </h1>
             <p className="text-body-lg text-secondary-600 mb-8">
-              Verdent provides professional coordination support that helps buyers, dealers, and OEMs
-              navigate complex incentive programs and keep equipment transactions moving forward.
+              Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize
+              and move incentive-supported clean equipment transactions forward, including
+              California CORE-related coordination.
             </p>
             <Button as="link" href="/contact" size="lg">
               Discuss Your Needs

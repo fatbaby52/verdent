@@ -8,7 +8,7 @@ import { COMPANY, TEAM_MEMBERS, TRUST_SIGNALS } from '@/lib/constants';
 export const metadata: Metadata = {
   title: 'About Verdent | Our Story and Team',
   description:
-    'Learn about Verdent, our mission to coordinate incentive-supported clean equipment purchases, and the team behind our services.',
+    'Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward. Learn about our story and team.',
 };
 
 export default function AboutPage() {
@@ -59,11 +59,11 @@ export default function AboutPage() {
           <div className="max-w-3xl">
             <Badge variant="primary" className="mb-4">About Verdent</Badge>
             <h1 className="text-display md:text-display-lg text-secondary-900 mb-6">
-              Making incentive-supported equipment purchases work better
+              A third-party coordinator for incentive-supported equipment transactions
             </h1>
             <p className="text-body-lg text-secondary-600">
-              Verdent exists because buying clean equipment through incentive programs shouldn't be this hard.
-              We bring professional coordination to a process that often lacks it.
+              Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move
+              incentive-supported clean equipment transactions forward, including California CORE-related coordination.
             </p>
           </div>
         </Container>

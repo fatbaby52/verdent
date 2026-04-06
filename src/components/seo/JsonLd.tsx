@@ -14,7 +14,7 @@ export function OrganizationSchema() {
     // TODO: Add actual logo URL
     // logo: 'https://verdent.com/logo.png',
     description:
-      'Verdent helps coordinate incentive-supported clean equipment purchases, working with buyers, dealers, and OEMs to navigate complex processes.',
+      'Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward, including California CORE-related coordination.',
     // TODO: Update with actual contact info
     email: COMPANY.email,
     telephone: COMPANY.phone,
@@ -57,7 +57,7 @@ export function LocalBusinessSchema() {
     // TODO: Update with actual URL
     url: 'https://verdent.com',
     description:
-      'Third-party coordination service for incentive-supported clean equipment purchases in California.',
+      'Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward, including California CORE-related coordination.',
     // TODO: Update with actual contact info
     email: COMPANY.email,
     telephone: COMPANY.phone,
@@ -167,7 +167,7 @@ export function ServiceSchema() {
       name: 'California',
     },
     description:
-      'Coordination services for incentive-supported clean equipment purchases, including California CORE voucher support.',
+      'Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward, including California CORE-related coordination.',
     offers: {
       '@type': 'Offer',
       availability: 'https://schema.org/InStock',
@@ -194,7 +194,7 @@ export function WebSiteSchema() {
     // TODO: Update with actual URL
     url: 'https://verdent.com',
     description:
-      'Verdent helps coordinate incentive-supported clean equipment purchases.',
+      'Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward, including California CORE-related coordination.',
     publisher: {
       '@type': 'Organization',
       name: COMPANY.name,

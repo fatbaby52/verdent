@@ -7,7 +7,7 @@ import { CASE_STUDIES } from '@/lib/constants';
 export const metadata: Metadata = {
   title: 'Case Studies | Coordination Results',
   description:
-    'See how Verdent has helped buyers, dealers, and OEMs successfully navigate incentive-supported clean equipment purchases.',
+    'See how Verdent, a third-party coordinator, has helped buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward.',
 };
 
 export default function CaseStudiesPage() {

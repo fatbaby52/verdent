@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     template: '%s | Verdent',
   },
   description:
-    'Verdent helps coordinate incentive-supported clean equipment purchases. We work with buyers, dealers, and OEMs to navigate complex processes from quotes to documentation.',
+    'Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward, including California CORE-related coordination.',
   keywords: [
     'clean equipment',
     'incentive coordination',
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     siteName: 'Verdent',
     title: 'Verdent | Clean Equipment Coordination',
     description:
-      'Verdent helps coordinate incentive-supported clean equipment purchases. We work with buyers, dealers, and OEMs to navigate complex processes.',
+      'Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward.',
     // TODO: Add OG image
     // images: [
     //   {
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Verdent | Clean Equipment Coordination',
     description:
-      'Verdent helps coordinate incentive-supported clean equipment purchases.',
+      'Verdent is a third-party coordinator for incentive-supported clean equipment transactions.',
     // TODO: Add Twitter image
     // images: ['/twitter-image.jpg'],
   },

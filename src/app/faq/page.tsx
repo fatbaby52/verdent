@@ -7,7 +7,7 @@ import { FULL_FAQ } from '@/lib/constants';
 export const metadata: Metadata = {
   title: 'FAQ | Frequently Asked Questions',
   description:
-    'Find answers to common questions about Verdent, our coordination services, and how we help with incentive-supported equipment purchases.',
+    'Find answers to common questions about Verdent, a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward.',
 };
 
 // Generate FAQ schema for SEO

@@ -15,8 +15,8 @@ export default function HomePage() {
     <>
       {/* Hero Section */}
       <Hero
-        headline="Verdent helps coordinate incentive-supported clean equipment purchases."
-        subheadline="We work alongside buyers, dealers, and OEMs to navigate complex incentive processes. From quotes to documentation, Verdent keeps your equipment purchase moving forward."
+        headline="Verdent is a third-party coordinator for incentive-supported clean equipment transactions."
+        subheadline="We help buyers, dealers, and OEMs organize and move incentive-supported clean equipment purchases forward, including California CORE-related coordination. From quotes to documentation, Verdent keeps transactions on track."
         primaryCta={{ label: 'Contact Us', href: '/contact' }}
         secondaryCta={{ label: 'Learn How It Works', href: '#process' }}
         showTrustSignals={true}
@@ -53,7 +53,7 @@ export default function HomePage() {
       {/* CTA Banner */}
       <CTABanner
         headline="Ready to discuss your project?"
-        description="Whether you're a buyer, dealer, or OEM, Verdent can help coordinate your next incentive-supported equipment transaction."
+        description="Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward."
         primaryCta={{ label: 'Contact Verdent', href: '/contact' }}
         secondaryCta={{ label: 'Learn About CORE Support', href: '/california-core' }}
         variant="dark"

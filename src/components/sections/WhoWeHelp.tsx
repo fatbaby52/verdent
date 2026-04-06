@@ -29,7 +29,7 @@ export function WhoWeHelp() {
         <SectionHeading
           badge="Who We Help"
           title="Coordination support for every stakeholder"
-          subtitle="Whether you're purchasing equipment, selling it, or manufacturing it, Verdent helps you navigate the complexity of incentive-supported transactions."
+          subtitle="Verdent is a third-party coordinator that helps buyers, dealers, and OEMs organize and move incentive-supported clean equipment transactions forward."
         />
 
         <div className="grid md:grid-cols-3 gap-6 lg:gap-8">
