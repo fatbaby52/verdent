@@ -1,0 +1,10 @@
+export { Hero } from './Hero';
+export { WhoWeHelp } from './WhoWeHelp';
+export { HowWeHelp } from './HowWeHelp';
+export { ProcessSteps } from './ProcessSteps';
+export { WhyVerdent } from './WhyVerdent';
+export { Testimonials } from './Testimonials';
+export { CaseStudyCard } from './CaseStudyCard';
+export { CaseStudyPreview } from './CaseStudyPreview';
+export { FAQSection } from './FAQSection';
+export { CTABanner } from './CTABanner';
